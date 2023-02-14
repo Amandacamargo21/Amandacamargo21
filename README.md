@@ -6,6 +6,7 @@
 ##
 
 <div>
+<a href="https://github.com/Amandacamargo21">
   <img height="20%" width="45%"src="https://github-readme-stats.vercel.app/api?username=Amandacamargo21&show_icons=true&theme=dracula">
   <img height="20%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandacamargo21&layout=compact&theme=dracula"
 </div>
@@ -39,4 +40,6 @@
 </div>
   
 ##
+
+![snake gif](https://github.com/Amandacamargo21/Amandacamargo21/blob/output/github-contribution-grid-snake.svg)
     
